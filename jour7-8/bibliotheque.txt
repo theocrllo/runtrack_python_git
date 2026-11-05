@@ -1,0 +1,7 @@
+debut
+    pour i allant de 1 à 10:
+        afficher i
+        afficher fin de la boucle 
+    fin 
+
+trouver les 4 bugs 
